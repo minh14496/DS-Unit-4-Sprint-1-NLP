@@ -11,6 +11,7 @@ matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
 notebook = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
