@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "04cab0b60070f90ce36376d968dfaebea919db8455d0f37f718ec01bcfa426b8"
+            "sha256": "aeb9661c88089f351c8761e83fb981c26be7262fbbf8c391dfc501412173dd13"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -931,6 +931,14 @@
             ],
             "markers": "python_version >= '3.6'",
             "version": "==3.0.5"
+        },
+        "squarify": {
+            "hashes": [
+                "sha256:54091f6ad175f7f201f8934574e647ce1b50dedc478c5fd968688eb7d7469f95",
+                "sha256:bec7011e0c7f4103fe57a1c16a7c091d9dc1be0f23d774e1c568b748a6f818f6"
+            ],
+            "index": "pypi",
+            "version": "==0.4.3"
         },
         "srsly": {
             "hashes": [
