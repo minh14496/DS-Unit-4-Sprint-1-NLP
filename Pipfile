@@ -10,12 +10,12 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 scikit-learn = "*"
-notebook = "*"
 beautifulsoup4 = "*"
 squarify = "*"
 pandarallel = "*"
 gensim = "*"
 pyldavis = "*"
+notebook = "*"
 
 [dev-packages]
 
