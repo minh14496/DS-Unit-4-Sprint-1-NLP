@@ -13,6 +13,7 @@ scikit-learn = "*"
 notebook = "*"
 beautifulsoup4 = "*"
 squarify = "*"
+jupyterlab = "*"
 
 [dev-packages]
 
