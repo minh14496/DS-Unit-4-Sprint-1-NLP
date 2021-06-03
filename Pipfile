@@ -16,6 +16,7 @@ pandarallel = "*"
 gensim = "*"
 pyldavis = "*"
 notebook = "*"
+ipywidgets = "*"
 
 [dev-packages]
 
