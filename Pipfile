@@ -13,7 +13,9 @@ scikit-learn = "*"
 notebook = "*"
 beautifulsoup4 = "*"
 squarify = "*"
-jupyterlab = "*"
+pandarallel = "*"
+gensim = "*"
+pyldavis = "*"
 
 [dev-packages]
 
